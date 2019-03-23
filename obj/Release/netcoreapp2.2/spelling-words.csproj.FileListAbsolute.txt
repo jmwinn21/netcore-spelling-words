@@ -1,0 +1,14 @@
+/Users/jacob/code/dotnet/spelling-words/bin/Release/netcoreapp2.2/spelling-words.deps.json
+/Users/jacob/code/dotnet/spelling-words/bin/Release/netcoreapp2.2/spelling-words.runtimeconfig.json
+/Users/jacob/code/dotnet/spelling-words/bin/Release/netcoreapp2.2/spelling-words.runtimeconfig.dev.json
+/Users/jacob/code/dotnet/spelling-words/bin/Release/netcoreapp2.2/spelling-words.dll
+/Users/jacob/code/dotnet/spelling-words/bin/Release/netcoreapp2.2/spelling-words.pdb
+/Users/jacob/code/dotnet/spelling-words/obj/Release/netcoreapp2.2/spelling-words.csprojAssemblyReference.cache
+/Users/jacob/code/dotnet/spelling-words/obj/Release/netcoreapp2.2/spelling-words.csproj.CoreCompileInputs.cache
+/Users/jacob/code/dotnet/spelling-words/obj/Release/netcoreapp2.2/spelling-words.RazorAssemblyInfo.cache
+/Users/jacob/code/dotnet/spelling-words/obj/Release/netcoreapp2.2/spelling-words.RazorAssemblyInfo.cs
+/Users/jacob/code/dotnet/spelling-words/obj/Release/netcoreapp2.2/spelling-words.AssemblyInfoInputs.cache
+/Users/jacob/code/dotnet/spelling-words/obj/Release/netcoreapp2.2/spelling-words.AssemblyInfo.cs
+/Users/jacob/code/dotnet/spelling-words/obj/Release/netcoreapp2.2/spelling-words.RazorTargetAssemblyInfo.cache
+/Users/jacob/code/dotnet/spelling-words/obj/Release/netcoreapp2.2/spelling-words.dll
+/Users/jacob/code/dotnet/spelling-words/obj/Release/netcoreapp2.2/spelling-words.pdb
